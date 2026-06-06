@@ -13,3 +13,9 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
+
+## Results
+![SIR vizualisation](visualization-1.svg)
+
+![Simulating b parameter](visualization-2.svg)
+
